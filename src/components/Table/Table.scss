@@ -1,0 +1,33 @@
+.table {
+  font-family: Inter, Arial, sans-serif;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 20px;
+
+  &__container {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  &__header {
+    border: 1px solid blue;
+  }
+
+  &__header-column {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+  }
+
+  &__header-title {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  &__body-column {
+    padding: 10px;
+    border: 1px solid blue;
+    font-size: 14px;
+  }
+}

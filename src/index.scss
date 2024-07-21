@@ -1,2 +1,8 @@
 @import './assets/layout/fonts/fonts';
 @import './assets/layout/reset/reset';
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
