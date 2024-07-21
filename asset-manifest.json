@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/testTableConf/static/css/main.08eff9a8.css",
-    "main.js": "/testTableConf/static/js/main.aecde808.js",
-    "static/media/Inter-SemiBold.woff": "/testTableConf/static/media/Inter-SemiBold.7f6c3678e245486167d9.woff",
-    "static/media/Inter-Medium.woff": "/testTableConf/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
-    "static/media/Inter-Black.woff": "/testTableConf/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/testTableConf/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-SemiBold.woff2": "/testTableConf/static/media/Inter-SemiBold.90f5c90fdecd8895f496.woff2",
-    "static/media/Inter-Medium.woff2": "/testTableConf/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/Inter-Black.woff2": "/testTableConf/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/testTableConf/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "index.html": "/testTableConf/index.html",
-    "main.08eff9a8.css.map": "/testTableConf/static/css/main.08eff9a8.css.map",
-    "main.aecde808.js.map": "/testTableConf/static/js/main.aecde808.js.map"
+    "main.css": "/test-table-conf/static/css/main.b43fb266.css",
+    "main.js": "/test-table-conf/static/js/main.aecde808.js",
+    "static/media/Inter-SemiBold.woff": "/test-table-conf/static/media/Inter-SemiBold.7f6c3678e245486167d9.woff",
+    "static/media/Inter-Medium.woff": "/test-table-conf/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/test-table-conf/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/test-table-conf/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-SemiBold.woff2": "/test-table-conf/static/media/Inter-SemiBold.90f5c90fdecd8895f496.woff2",
+    "static/media/Inter-Medium.woff2": "/test-table-conf/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/test-table-conf/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/test-table-conf/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "index.html": "/test-table-conf/index.html",
+    "main.b43fb266.css.map": "/test-table-conf/static/css/main.b43fb266.css.map",
+    "main.aecde808.js.map": "/test-table-conf/static/js/main.aecde808.js.map"
   },
   "entrypoints": [
-    "static/css/main.08eff9a8.css",
+    "static/css/main.b43fb266.css",
     "static/js/main.aecde808.js"
   ]
 }
